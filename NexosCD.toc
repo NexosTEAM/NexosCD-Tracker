@@ -1,0 +1,10 @@
+## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 120106, 120107
+## Title: NexosCD Tracker
+## Notes: Target Frame and Nameplate Cooldown Tracker only
+## Author: NexosTEAM
+## Version: 1.1.4
+## SavedVariables: NexosCD_ForeverEnemyCDDB, NexosCD_MidnightEnemyCDDB, NexosCDMinimapDB
+## IconTexture: Interface\AddOns\NexosCD\media\nexoscd_minimap.tga
+core.lua
+tracker.lua
+controls.lua
